@@ -919,6 +919,21 @@ textarea{
     border:1px solid #878787;
     z-index:9999;
 }
+@media only screen and (max-width:1940px){
+    .title{
+        position:absolute;
+        padding-top:11px;
+        /*left:935px;*/
+        /*right:84px;*/
+    }
+    .principal{
+        width:1550px;
+        /*height: 60px;*/
+        /*line-height:60px;*/
+        margin:auto;
+    }
+}
+
 
 
 
